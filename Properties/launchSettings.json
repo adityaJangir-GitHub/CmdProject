@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CmdProject": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\AdityaJangir\\Desktop\\hello.txt"
+    }
+  }
+}

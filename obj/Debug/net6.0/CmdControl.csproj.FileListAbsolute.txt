@@ -1,0 +1,15 @@
+C:\Users\AdityaJangir\source\repos\CmdProject\CmdProject\bin\Debug\net6.0\CmdControl.exe
+C:\Users\AdityaJangir\source\repos\CmdProject\CmdProject\bin\Debug\net6.0\CmdControl.deps.json
+C:\Users\AdityaJangir\source\repos\CmdProject\CmdProject\bin\Debug\net6.0\CmdControl.runtimeconfig.json
+C:\Users\AdityaJangir\source\repos\CmdProject\CmdProject\bin\Debug\net6.0\CmdControl.dll
+C:\Users\AdityaJangir\source\repos\CmdProject\CmdProject\bin\Debug\net6.0\CmdControl.pdb
+C:\Users\AdityaJangir\source\repos\CmdProject\CmdProject\obj\Debug\net6.0\CmdControl.csproj.AssemblyReference.cache
+C:\Users\AdityaJangir\source\repos\CmdProject\CmdProject\obj\Debug\net6.0\CmdControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdityaJangir\source\repos\CmdProject\CmdProject\obj\Debug\net6.0\CmdControl.AssemblyInfoInputs.cache
+C:\Users\AdityaJangir\source\repos\CmdProject\CmdProject\obj\Debug\net6.0\CmdControl.AssemblyInfo.cs
+C:\Users\AdityaJangir\source\repos\CmdProject\CmdProject\obj\Debug\net6.0\CmdControl.csproj.CoreCompileInputs.cache
+C:\Users\AdityaJangir\source\repos\CmdProject\CmdProject\obj\Debug\net6.0\CmdControl.dll
+C:\Users\AdityaJangir\source\repos\CmdProject\CmdProject\obj\Debug\net6.0\refint\CmdControl.dll
+C:\Users\AdityaJangir\source\repos\CmdProject\CmdProject\obj\Debug\net6.0\CmdControl.pdb
+C:\Users\AdityaJangir\source\repos\CmdProject\CmdProject\obj\Debug\net6.0\CmdControl.genruntimeconfig.cache
+C:\Users\AdityaJangir\source\repos\CmdProject\CmdProject\obj\Debug\net6.0\ref\CmdControl.dll
